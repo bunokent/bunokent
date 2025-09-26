@@ -12,7 +12,7 @@
  
  🏫 I’m currently a college student
  
- 🌱 I’m currently learning **Python, Java, Javascript** and **Postgresql**
+ 🌱 I’m currently learning **laravel** and **React**
 
 ⚡ Fun fact **Programmers spend 90% of their time trying to fix a bug, only to realize it was a missing semicolon!**
 
