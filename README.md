@@ -49,5 +49,5 @@
 
 <div align="center">
   <h2>🔥 My Contributions & Streak 🔥</h2>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=bunokent)](https://git.io/streak-stats)
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=bunokent&theme=dark)](https://git.io/streak-stats)
