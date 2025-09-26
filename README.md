@@ -32,14 +32,19 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">🛠️ Languages-Frameworks 🛠️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,laravel,react,figma,git,pycharm" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,laravel" />
+    <img src="https://skillicons.dev/icons?i=postgresql" /><br>
 </div>
 
 <br/>
+<h2 align="center">⚒️ Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=github,neovim,vscode,linux,phpstorm" /><br>
+</div>
 <hr/>
 
 <div align="center">
